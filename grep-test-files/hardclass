@@ -1,0 +1,22 @@
+This class has been hard
+I will hope
+that it will not get more hard
+because I will drop it.
+
+// represent as dictionary, words are keys, line numbers are values
+// can quickly look up by seeing word and immediately being directed to the places it could be - then we just look at that subset and find it
+// this: 1
+// class: 1
+// has: 1
+// been: 1
+// hard: 1, 3
+// I: 2, 4
+// hope: 2
+// that: 3
+// it: 3, 4
+// will: 2, 3, 4
+// not: 3
+// get: 3
+// more: 3
+// because: 4
+// drop: 4
